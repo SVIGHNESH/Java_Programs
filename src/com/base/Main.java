@@ -11,12 +11,13 @@ public class Main{
                     System.out.println(Arrays.toString(numbers));
                     System.out.println(numbers.getClass());
                     for (int i = 0;i<5;i++) System.iny (numbers[i]);
-                    for (int i = 0;i<5;i++){
-//                             System.out.println(numbers[i]);
-//                   }
-//                    numbers[1] = 2;
+                    for (int i = 0;i<5;i++){                          System.out.println(numbers[i]);
+                 }
+ 
+        numbers[1] = 2;
                  System.out.println(Arrays.toString(numbers) );
-//                String message = "C:\\Windows\\..";
+        
+        String message = "C:\\Windows\\..";
             System.out.println(message);
 
 
