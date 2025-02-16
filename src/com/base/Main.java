@@ -10,8 +10,8 @@ public class Main{
                     int[] numbers={1,2,3,4,1};
                     System.out.println(Arrays.toString(numbers));
                     System.out.println(numbers.getClass());
-//                    for (int i = 0;i<5;i++) System.iny (numbers[i]);
-//                    for (int i = 0;i<5;i++){
+                    for (int i = 0;i<5;i++) System.iny (numbers[i]);
+                    for (int i = 0;i<5;i++){
 //                             System.out.println(numbers[i]);
 //                   }
 //                    numbers[1] = 2;
