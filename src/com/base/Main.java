@@ -15,10 +15,9 @@ public class Main{
 //                             System.out.println(numbers[i]);
 //                   }
 //                    numbers[1] = 2;
-//
-//                    System.out.println(Arrays.toString(numbers) );
+                 System.out.println(Arrays.toString(numbers) );
 //                String message = "C:\\Windows\\..";
-//                System.out.println(message);
+            System.out.println(message);
 
 
 
